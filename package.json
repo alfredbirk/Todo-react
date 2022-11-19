@@ -12,7 +12,7 @@
     "react-flip-move": "^3.0.3",
     "react-pose": "^4.0.8",
     "react-pose-text": "^3.1.0",
-    "react-scripts": "3.0.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
